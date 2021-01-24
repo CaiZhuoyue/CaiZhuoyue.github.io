@@ -17,6 +17,7 @@ plugins:
 
 # Optimize Jekyll
 exclude:
+  - /_posts/2021-1-24-testing-mathjax.md
   - .editorconfig
   - .git
   - .jekyll-cache
