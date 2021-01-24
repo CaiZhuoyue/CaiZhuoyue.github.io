@@ -18,6 +18,8 @@ plugins:
 # Optimize Jekyll
 exclude:
   - /_posts/2021-1-24-testing-mathjax.md
+  - /_posts/2020-10-01-releasing-not-pure-poole-v0-1-0.md
+  - /_posts/2020-09-29-welcome-to-not-pure-poole.md
   - .editorconfig
   - .git
   - .jekyll-cache
